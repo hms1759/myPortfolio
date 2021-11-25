@@ -1,0 +1,268 @@
+/* =================================================
+Author Name: Shakil Hossain
+Author URI: http://themeforest.net/shakilunique
+Template Name: bizman
+Description: bizman is a modern responsive business and personal tempalte, you can use this template for your business,corporate,agency and personal purpouse.
+====================================================*/   
+/* Section Title */
+.section-title span{
+	color:rgb(165, 48, 6);	
+}
+/* Button */
+.button:hover{
+	background:rgb(165, 48, 6);
+}
+.button.primary{
+    background: rgb(165, 48, 6);
+}
+/* Typed Cursor */
+.typed-cursor{
+	color:rgb(165, 48, 6);
+}
+/* Breadcrumbs */
+#breadcrumbs ul li.active a{
+	color:rgb(165, 48, 6);
+}
+/* Header */
+#header .contact i{
+	color:rgb(165, 48, 6);
+}
+#header .social a:hover,
+#header .social .active a{
+	background:rgb(165, 48, 6);
+}
+#header .logo span{
+	color:rgb(165, 48, 6);
+}
+#header .slicknav_nav a:hover{
+	background: rgb(165, 48, 6);
+}
+#header .slicknav_nav .slicknav_row:hover{
+	background: rgb(165, 48, 6);
+}
+#header .nav li:hover a, 
+#header .nav li.active a{
+	background: rgb(165, 48, 6);
+}
+#header .nav li .sub-menu li:hover a{
+	color:rgb(165, 48, 6);
+}
+#header .search li a{
+	color:rgb(165, 48, 6);
+}
+#header .nav li .sub-menu{
+	border-color:rgb(165, 48, 6);
+}
+#header .search-form i{
+	background: rgb(165, 48, 6);
+}
+/* Home Slider */
+#j-slider .slide-button .button.primary,
+#j-slider .slide-button .button:before{
+	background:rgb(165, 48, 6);
+}
+#j-slider .owl-nav div:hover{
+	background:rgb(165, 48, 6);
+}
+#j-slider .owl-dots .owl-dot span{
+	background: rgb(165, 48, 6);
+}
+#j-slider .owl-dots .owl-dot:hover span{
+	background:rgb(165, 48, 6);
+}
+#j-slider .owl-dots .owl-dot.active span{
+	background:rgb(165, 48, 6);
+}
+/* Statics */
+#statics .static-single.active{
+	background:rgb(165, 48, 6);
+}
+#statics .static-single i{
+	color: rgb(165, 48, 6);
+}
+/* About Us */
+#about-us .single-video i{
+	background: rgb(165, 48, 6);
+}
+#about-us .single-video::after{
+	background: rgb(165, 48, 6);
+}
+/* Service */
+#service .single-service.active,
+#service .single-service:hover{
+	background:rgb(165, 48, 6);
+}
+/* Team */
+#team .team-social li a{
+	background: rgb(165, 48, 6);
+}
+#team .single-team{
+	border-top-color:rgb(165, 48, 6);
+}
+#team .team-info{
+	background: rgb(165, 48, 6);
+}
+/* Project */
+#project .project-hover{
+	border-bottom-color: rgb(165, 48, 6);
+}
+#project .project-hover h4:hover a,
+#project .project-hover .button:hover i{
+	color:rgb(165, 48, 6);
+}
+/* Testimonial */
+#testimonial .testimonial-content{
+	border-bottom-color:rgb(165, 48, 6);
+}
+#testimonial .owl-item.active.center .testimonial-content{
+	border-top-color:rgb(165, 48, 6);
+	border-bottom-color:rgb(165, 48, 6);
+}
+#testimonial .testimonial-content::before{
+	color: rgb(165, 48, 6);
+}
+#testimonial .testimonial-info .arrow::before{
+	border-left-color:rgb(165, 48, 6);
+}
+#testimonial .owl-dots .owl-dot.active span{
+	background:rgb(165, 48, 6);
+}
+#testimonial .testimonial-info img {
+	border-color:rgb(165, 48, 6);
+}
+/* Blog */
+#blog .owl-dot.active span{
+	background: rgb(165, 48, 6);
+}
+#blog .blog-head .icon{
+	background: rgb(165, 48, 6);
+}
+#blog .blog-head span{
+	background: rgb(165, 48, 6);
+}
+#blog .single-blog .meta span i{
+	color:rgb(165, 48, 6);
+}
+#blog .single-blog .blog-info h4:hover a{
+	color:rgb(165, 48, 6);
+}
+#blog .single-blog .button {
+	color: rgb(165, 48, 6);
+}
+#blog .single-sidebar h2 span{
+	color:rgb(165, 48, 6);
+}
+#blog .latest .post-info p{
+	color:rgb(165, 48, 6);
+}
+#blog .latest .post-info a:hover{
+	color:rgb(165, 48, 6);
+}
+#blog .category ul li a i{
+	color: rgb(165, 48, 6);
+}
+#blog .tags ul li a{
+	background: rgb(165, 48, 6);
+}
+#blog .blog-share ul li.share i{
+	color:rgb(165, 48, 6);
+}
+#blog .blog-share ul li a{
+	background:rgb(165, 48, 6);
+}
+#blog .prev-next ul li a{
+	color:rgb(165, 48, 6);
+}
+#blog .pagination li:hover a,
+#blog .pagination li a:focus{
+	background:rgb(165, 48, 6);
+}
+#blog .pagination li.prev a,
+#blog .pagination li.next a,
+#blog .pagination li.active a {
+	background:rgb(165, 48, 6);
+}
+#blog .single-comments a{
+	color: rgb(165, 48, 6);
+}
+#blog .comments-form .form .button{
+	background: rgb(165, 48, 6);
+}
+/* Pricing */
+#pricing .single-table.active .price {
+	background: rgb(165, 48, 6);
+}
+#pricing .single-table.active .button{
+	background:rgb(165, 48, 6);
+}
+#pricing .single-table:hover .button{
+	background:rgb(165, 48, 6);
+}
+#skills-experience .single-skill .progress-bar {
+	background: rgb(165, 48, 6);
+}
+#skills-experience .skill-text i{
+	background:rgb(165, 48, 6);
+}
+/* Call To Action */
+#call-to-action .button:hover {
+	background: rgb(165, 48, 6);
+}
+/* Contact Form */
+#contact .form-group i{
+	color: rgb(165, 48, 6);
+}
+/* Cleints */
+#clients .owl-nav div {
+	background: rgb(165, 48, 6);
+}
+
+/* Personal Banner */
+#personal-banner .banner-text .info{
+	color:rgb(165, 48, 6);
+}
+/* About Me */
+#about-me .about-contact ul i{
+	color: rgb(165, 48, 6);
+}
+/* My SKill */
+#my-skill .col-md-6:nth-child(3n+1) .progress-bar{
+	background:rgb(165, 48, 6);
+}
+/* My Timeline */
+#my-timeline .timeline-inner:before{
+	background-color: rgb(165, 48, 6);
+}
+#my-timeline .single-timeline h2 span{
+	color: rgb(165, 48, 6);
+}
+#my-timeline .timeline-inner:before{
+	background-image: -webkit-linear-gradient(top,#EAF0F2 0%,rgb(165, 48, 6) 8%,rgb(165, 48, 6) 92%,#EAF0F2 100%);
+	background-image: -moz-linear-gradient(top,#EAF0F2 0%,rgb(165, 48, 6) 8%,rgb(165, 48, 6) 92%,#EAF0F2 100%);
+	background-image: -ms-linear-gradient(top,#EAF0F2 0%,rgb(165, 48, 6) 8%,rgb(165, 48, 6) 92%,#EAF0F2 100%);
+}
+.k-line{
+	background:rgb(165, 48, 6);
+}
+/* Footer Top */
+#footer-top .single-widget h2 {
+	border-bottom-color:rgb(165, 48, 6)
+}
+#footer-top .single-widget .list i{
+	color: rgb(165, 48, 6);
+}
+#footer-top .logo span{
+	color:rgb(165, 48, 6);
+}
+#footer-top form button{
+	background:rgb(165, 48, 6);
+}
+#footer .copyright span{
+	color:rgb(165, 48, 6);
+}
+#footer .social a{
+	background: rgb(165, 48, 6);
+}
+#footer .social li:hover a{
+	border-color:rgb(165, 48, 6);
+}
